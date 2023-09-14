@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ritik Kumar Ratna, a final year B.E student at Chandigarh University. I am an aspiring Frontend web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Ritik Kumar Ratna, a final year B.E student from Chandigarh University. I am an aspiring Frontend web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik/)](https://www.linkedin.com/in/ritik-kumar-ratna-47a101206/)
 [![Gmail Badge](https://img.shields.io/badge/-mauryahritik31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)](mailto:mauryahritik31@gmail.com)
@@ -22,4 +22,4 @@ I am Ritik Kumar Ratna, a final year B.E student at Chandigarh University. I am 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+
