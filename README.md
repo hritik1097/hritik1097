@@ -2,8 +2,8 @@
 
 I am Ritik Kumar Ratna, a final year B.E student at Chandigarh University. I am an aspiring Frontend web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik/)](https://www.linkedin.com/in/ritik-kumar-ratna-47a101206/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)](mailto:mauryahritik31@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik/)](https://www.linkedin.com/in/ritik-kumar-ratna-47a101206/)
+[![Gmail Badge](https://img.shields.io/badge/-mauryahritik31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)](mailto:mauryahritik31@gmail.com)
 
 
 ## ⚡ Technologies
